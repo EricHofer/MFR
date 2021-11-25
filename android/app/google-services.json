@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894688934756",
+    "project_id": "mfrapp-b8cab",
+    "storage_bucket": "mfrapp-b8cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894688934756:android:228666887960459ef45871",
+        "android_client_info": {
+          "package_name": "com.example.mfr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894688934756-0skptfn08690spf20fd5g4qjmslbaevh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfr",
+            "certificate_hash": "b4b0df1a652970c08ca354e5134bad3b743b0757"
+          }
+        },
+        {
+          "client_id": "894688934756-0g1411qdvepkd86cptae6h2oh7q9kb0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRWFx9gfuyw1o4cVEp3bcQKA44rXbWykA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894688934756-0g1411qdvepkd86cptae6h2oh7q9kb0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
